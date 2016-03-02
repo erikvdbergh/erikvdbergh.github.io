@@ -4,7 +4,7 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Bioinformatics blog of Erik van den Bergh
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://erikvdbergh.github.io" # the base hostname & protocol for your site
 twitter_username: erikvdbergh
 github_username:  erikvdbergh
 
