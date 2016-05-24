@@ -8,6 +8,7 @@ image: /images/pic01.jpg
 ---
 
 Sometimes you have been building an image a few times in different iterations and trying it out. When you want to clean up, you want to remove the image so you run `docker rmi`:
+
 ```
 vandene@computer:~$ docker rmi mybuiltimage
 Error response from daemon: conflict: unable to remove repository reference "mybuiltimage" (must force) - container 8ac1a3a4aa41 is using its referenced image 90d5884b1ee0
