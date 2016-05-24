@@ -35,6 +35,7 @@ function dockerpurge() {
 {% endhighlight %}
 
 Now, you can just run the dockerpurge command:
+
 ```
 vandene@computer:~$ dockerpurge mybuiltimage
 removing container 3b4695a71456
