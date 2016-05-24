@@ -10,6 +10,7 @@ github_username:  erikvdbergh
 
 # Build settings
 markdown: kramdown
+future: true
 
 paginate: 4
 
