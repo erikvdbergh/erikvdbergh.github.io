@@ -9,7 +9,7 @@ image: /images/pic01.jpg
 
 In this post I'll explore some Docker automation for deleting old containers that depend on an image you want to remove. 
 
-Sometimes you have been building an image a few times in different iterations and trying it out. When you want to clean up, you want to remove the image so you run `docker rmi`:
+<!-- more --> Sometimes you have been building an image a few times in different iterations and trying it out. When you want to clean up, you want to remove the image so you run `docker rmi`:
 
 ```
 vandene@computer:~$ docker rmi mybuiltimage

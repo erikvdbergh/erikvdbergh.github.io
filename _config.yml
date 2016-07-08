@@ -13,6 +13,7 @@ markdown: kramdown
 future: true
 
 paginate: 4
+excerpt_separator: "<!-- more -->"
 
 author: Erik van den Bergh
 
