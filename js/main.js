@@ -107,7 +107,7 @@
 						$intro.prependTo($main);
 					})
 					.on('-large', function() {
-						$intro.prependTo($sidebar);
+						$intro.prependTo($main);
 					});
 
 	});
