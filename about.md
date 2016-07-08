@@ -2,11 +2,9 @@
 layout: no-about-page
 title: About
 permalink: /about/
-image: /images/pic02.jpg
+image: /images/headshot.jpg
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is my (Erik van den Bergh) personal blog where I write about bioinformatics. I am currently working on [CyVerse UK](www.cyverseuk.org) DevOps and implementing pipelines for the [Earlham Institute](earlham.ac.uk).
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Hosted on Github Pages, theme [Siera](https://github.com/satokazuma/Siera)
