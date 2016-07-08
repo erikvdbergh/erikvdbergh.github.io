@@ -107,6 +107,8 @@
 						$intro.prependTo($main);
 					})
 					.on('-large', function() {
+						//$intro.prependTo($sidebar);
+						//dont do mobile layout?
 						$intro.prependTo($main);
 					});
 
