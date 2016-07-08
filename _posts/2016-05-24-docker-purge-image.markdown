@@ -3,11 +3,11 @@ layout: post
 title:  "Remove an images and all associated containers in Docker"
 date: 2016-05-24 11:35:43
 categories: docker
-tags: docker bash
+tags: docker,bash
 image: /images/pic01.jpg
 ---
 
-Sometimes you have been building an image a few times in different iterations and trying it out. When you want to clean up, you want to remove the image so you run `docker rmi`:
+In this post I'll explore some Docker automation for deleting old containers that depend on an image you want to remove. <!-- more --> Sometimes you have been building an image a few times in different iterations and trying it out. When you want to clean up, you want to remove the image so you run `docker rmi`:
 
 ```
 vandene@computer:~$ docker rmi mybuiltimage
